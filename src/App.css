@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  position: absolute;
+  left: 100px;
 }
 
 .App-logo {
@@ -35,4 +37,20 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.bg-1 {
+  background-color: #F7DC6F !important;
+}
+
+.bg-2 {
+  background-color: #F5B041 !important;
+}
+
+.bg-3 {
+  background-color: #58D68D !important;
+}
+
+.my-progress-box {
+  background-color: transparent;
 }
